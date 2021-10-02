@@ -2,10 +2,10 @@
 
 
 ## Career Information
-😼 I'm 3rd Year College Student 
-🏭 Studying at Pamantasan ng Lungsod ng Valenzuela
-🕶  21 years old
-💻 Currently studying Information Technology
+- 😼 I'm 3rd Year College Student 
+- 🏭 Studying at Pamantasan ng Lungsod ng Valenzuela
+- 🕶  21 years old
+- 💻 Currently studying Information Technology
 
 ### Student Profile
 
